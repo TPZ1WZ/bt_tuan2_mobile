@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="welcome_back">Welcome\nBack</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="new_user_register">Are you new user? Register</string>
+
+    <string name="create_account">Create\nAccount</string>
+    <string name="name">Name</string>
+    <string name="forgot_password">Forget your password? Recovery it</string>
+</resources>
